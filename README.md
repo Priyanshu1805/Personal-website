@@ -1,2 +1,3 @@
-# Personal-website
-This is my first personal website for business purposes 
+# Welcome to your Lovable project
+
+TODO: Document your project here
